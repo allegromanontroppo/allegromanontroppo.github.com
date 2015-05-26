@@ -5,10 +5,24 @@
   <id>http://www.markhol.land/blog</id>
   <link href="http://www.markhol.land/blog"/>
   <link href="http://www.markhol.land/feed.xml" rel="self"/>
-  <updated>2015-01-01T10:00:00+00:00</updated>
+  <updated>2015-05-26T23:44:00+01:00</updated>
   <author>
     <name>Mark Holland</name>
   </author>
+  <entry>
+    <title>Harem application form</title>
+    <link rel="alternate" href="http://www.markhol.land/blog/2015/05/26/harem-application-form/"/>
+    <id>http://www.markhol.land/blog/2015/05/26/harem-application-form/</id>
+    <published>2015-05-26T23:44:00+01:00</published>
+    <updated>2015-05-26T23:51:04+01:00</updated>
+    <author>
+      <name>Mark Holland</name>
+    </author>
+    <content type="html">&lt;p&gt;&lt;img alt="Seraglio" src="http://markhol.land/harem-application-form/images/harem_bg.jpg" /&gt;&lt;/p&gt;
+
+&lt;p&gt;An experiment with &lt;a href="https://facebook.github.io/react/index.html"&gt;ReactJS&lt;/a&gt;, see if you pass the stringent qualifying procees &lt;a href="http://markhol.land/harem-application-form/"&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Desert Island discs 2015</title>
     <link rel="alternate" href="http://www.markhol.land/blog/2015/01/01/desert-island-discs-2015/"/>
@@ -161,20 +175,6 @@ or more sweet.&lt;/p&gt;
 
 &lt;p&gt;&lt;img alt="" src="https://pbs.twimg.com/media/BvL8rOzIQAAjm5w.jpg" /&gt;&lt;/p&gt;
 
-</content>
-  </entry>
-  <entry>
-    <title>Preraphalite</title>
-    <link rel="alternate" href="http://www.markhol.land/blog/2014/06/20/preraphalite/"/>
-    <id>http://www.markhol.land/blog/2014/06/20/preraphalite/</id>
-    <published>2014-06-20T23:25:00+01:00</published>
-    <updated>2014-12-20T17:48:46+00:00</updated>
-    <author>
-      <name>Mark Holland</name>
-    </author>
-    <content type="html">&lt;p&gt;&lt;a href="/blog/2014/06/20/saeco.jpeg"&gt;&lt;img alt="Saeco" src="/blog/2014/06/20/saeco.jpeg" /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Rocking the preraphalite this morning.&lt;/p&gt;
 </content>
   </entry>
 </feed>
